@@ -1,0 +1,5 @@
+﻿  курсач.cpp
+C:\Users\pauel\Downloads\Telegram Desktop\курсач\курсач\accounts.h(198,17): warning C4101: ch: неиспользованная локальная переменная
+C:\Users\pauel\Downloads\Telegram Desktop\курсач\курсач\structure.h(317,7): warning C4101: k: неиспользованная локальная переменная
+C:\Users\pauel\Downloads\Telegram Desktop\курсач\курсач\accounts.h(354): warning C4715: changeRole: значение возвращается не при всех путях выполнения
+  курсач.vcxproj -> C:\Users\pauel\Downloads\Telegram Desktop\курсач\x64\Debug\курсач.exe
